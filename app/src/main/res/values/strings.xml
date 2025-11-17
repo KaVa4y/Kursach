@@ -1,13 +1,8 @@
 <resources>
-    <string name="app_name">Medicine Reminder</string>
-    <string name="my_medications">Мои лекарства</string>
-    <string name="no_medications">Нет добавленных лекарств\nНажмите кнопку ниже чтобы добавить</string>
-    <string name="add_medication">Добавить лекарство</string>
-    <string name="add_medication_title">Добавление лекарства</string>
-    <string name="medication_name">Название лекарства</string>
-    <string name="dosage">Дозировка</string>
-    <string name="time">Время приема</string>
-    <string name="save">Сохранить</string>
-    <string name="name_hint">Введите название</string>
-    <string name="dosage_hint">Например: 1 таблетка</string>
+    <string name="app_name">Kursach</string>
+    <string name="login">Войти</string>
+    <string name="register">Зарегистрироваться</string>
+    <string name="username">Имя пользователя</string>
+    <string name="password">Пароль</string>
+    <string name="welcome">Добро пожаловать!</string>
 </resources>
